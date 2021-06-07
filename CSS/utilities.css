@@ -1,0 +1,30 @@
+.primary-btn{
+ background: #FD760E;
+ padding: 0.5rem 1.2rem;
+ color: var(--pure);
+ outline: transparent;
+ border: transparent;
+ border-radius: 0.4rem;
+ font-weight: 500;
+ font-family: 'poppins', sans-serif;
+}
+.main-text{
+    font-size: 2rem;
+    font-weight: 700;
+    color: var(--dark);
+}
+.sub-text{
+    font-size: 0.8rem;
+    font-weight: 400;
+    opacity: 0.5;
+}
+.kuu-call-btn{
+    width: 200px;
+
+}
+.middle{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
